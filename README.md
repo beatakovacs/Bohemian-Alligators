@@ -1,4 +1,5 @@
 # Bohemian-Alligators
+<img src="logo.jpg" align="middle" height="250" width="250"> 
 UC Berkeley's Standard Copyright and Disclaimer Notice:
 
 Copyright ©2017. The Regents of the University of California (Regents). All Rights Reserved. Permission to use, copy, modify, and
