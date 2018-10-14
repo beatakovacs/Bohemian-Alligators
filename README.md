@@ -1,5 +1,8 @@
 # Bohemian-Alligators
-<img src="logo.jpg" align="middle" height="250" width="250"> 
+<img src="logo.jpg"  height="250" width="250" align="middle"> 
+
+This project's aim is to create a deep neural network trained with the UC Berkeley's dataset which is capable of semantic segmentation of cityscapes. Our main goal is to be able to differenciate vehicles and pedestrians.
+
 UC Berkeley's Standard Copyright and Disclaimer Notice:
 
 Copyright ©2017. The Regents of the University of California (Regents). All Rights Reserved. Permission to use, copy, modify, and
