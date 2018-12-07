@@ -1,9 +1,41 @@
 # Bohemian-Alligators
 <img src="logo.jpg"  height="250" width="250" align="middle"> 
 
+<h1>Motivation</h1>
+This project was created as a part of the course  Deep Learning in Practice with Python and LUA (Budapest University of Technology and Economics). We enrolled this course with no prior knowledge or experience in the field of deep learning, therefore our sole purpose was to gain a deeper understanding of the theoretical concepts while working with them in practice. We approached the assignment with a curious, experimental view.
+
+<h4>Team members:</h4>
+- Csenge Kilián<br>
+- Beáta Csilla Kovács<br>
+
+<h1>Description of the Project</h1>
 This project's aim is to create a deep neural network trained with the UC Berkeley's dataset which is capable of semantic segmentation of cityscapes. Our main goal is to be able to differenciate vehicles and pedestrians.
 
-UC Berkeley's Standard Copyright and Disclaimer Notice:
+<h1>Directory Structure</h1>
+
+<pre><code>
+data/
+  catid_annot
+  class_color
+  ram_images
+  categories.csv
+DataPreprocessing.ipynb
+Documentation.doc
+README.md
+evaluation.ipynb
+network.ipynb
+trained_model.h5
+</code></pre>
+
+
+<h1>The Dataset</h1>
+The dataset can be downloaded on the following link: http://bdd-data.berkeley.edu/ <br>
+The data folder contains a reduced set of US Berkerley's dataset.
+
+<h1>Training and Testing</h1>
+
+
+<h4>UC Berkeley's Standard Copyright and Disclaimer Notice:</h4>
 
 Copyright ©2017. The Regents of the University of California (Regents). All Rights Reserved. Permission to use, copy, modify, and
 distribute this software and its documentation for educational, research, and not-for-profit purposes, without fee and without a
