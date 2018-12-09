@@ -27,14 +27,14 @@ evaluation.ipynb
 network.ipynb
 </code></pre>
 
-old mappaban a segnet-es dolgok
+As you can find out from the documentation, we switched from using Segnet as our model to U-Net for various reasons. You can find all the files related to the project's Segnet version in the "old" folder.
 
 <h1>The Dataset</h1>
 The dataset can be downloaded on the following link: http://bdd-data.berkeley.edu/ <br>
 The data folder contains a reduced set of US Berkerley's dataset.
 
 <h1>Training and Testing</h1>
-
+You can download the whole dataset from UC Berkeley's website or you can find a subset of the dataset uploaded to the repository. In the case you want to extend the subset we used, after arranging it in the same folder structure as we did, you can train the model with network.ipynb. If you want to test, you only have to run Test.py. The weights of the best model we achieved are saved in model.36-0.9417.hdf5.
 
 <h4>UC Berkeley's Standard Copyright and Disclaimer Notice:</h4>
 
