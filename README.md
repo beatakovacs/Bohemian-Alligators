@@ -14,19 +14,20 @@ This project's aim is to create a deep neural network trained with the UC Berkel
 <h1>Directory Structure</h1>
 
 <pre><code>
-data/
+dataset/
   catid_annot
   class_color
   ram_images
   categories.csv
-DataPreprocessing.ipynb
+model_weights/
+  model.36-0.9417.hdf5
 Documentation.doc
 README.md
 evaluation.ipynb
 network.ipynb
-trained_model.h5
 </code></pre>
 
+old mappaban a segnet-es dolgok
 
 <h1>The Dataset</h1>
 The dataset can be downloaded on the following link: http://bdd-data.berkeley.edu/ <br>
