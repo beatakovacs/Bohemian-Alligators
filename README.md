@@ -9,7 +9,7 @@ This project was created as a part of the course  Deep Learning in Practice with
 - Beáta Csilla Kovács<br>
 
 <h1>Description of the Project</h1>
-This project's aim is to create a deep neural network trained with the UC Berkeley's dataset which is capable of semantic segmentation of cityscapes. Our main goal is to be able to differenciate vehicles and pedestrians.
+This project's aim is to create a deep neural network trained with the UC Berkeley's dataset which is capable of semantic segmentation of cityscapes.
 
 <h1>Directory Structure</h1>
 
